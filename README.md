@@ -1,11 +1,11 @@
 # StAR: Discover the beauty of constellations with AR
 [![Build status](https://build.appcenter.ms/v0.1/apps/e0928fc1-253b-4e65-81cd-01e013fd6c0d/branches/master/badge)](https://appcenter.ms)
 
-2 plus 2 is an interactive iOS playground book that helps children learn math using handwriting recognition, gesture detection, and augmented reality.
+StAR is an interactive AR playground book that helps users connect stars to form constellations while learning about astronomy.
 
 * Written in Swift
 * Awarded by Apple for the WWDC 2019 Scholarship
-* Powered by ARKit and UIKit
+* Powered by ARKit, UIKit and SceneKit
 * Auto Layout was written entirely with code
 
 ![](demo.gif)
